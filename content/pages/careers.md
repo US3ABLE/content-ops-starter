@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Get A Job At Nimbus
     text: |
       We Are Hiring!
     actions:
