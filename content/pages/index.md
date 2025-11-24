@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Welcome to Nimbus
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **Private cloud built for the next decade. Strong encryption, transparent
+      design, and storage that puts you in control.**
     actions:
       - label: Get started
         altText: ''
