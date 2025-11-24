@@ -83,7 +83,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Unlimited Users
-          - Feature two
+          - Unlimited Devices
           - Feature three
           - Feature four
           - Feature five
