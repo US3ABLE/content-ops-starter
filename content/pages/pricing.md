@@ -52,7 +52,7 @@ sections:
         features:
           - 25 Users
           - Unlimited Devices
-          - Free Customisation
+          - Unlimited Customisation
           - Feature four
         image:
           url: /images/abstract-feature2.svg
