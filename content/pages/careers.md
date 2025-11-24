@@ -94,7 +94,7 @@ sections:
       - title: Open Source Engineer
         subtitle: Marketing
         text: |
-          Also need someone for marketing
+          I also need someone for marketing
         colors: bg-neutral-fg-dark
         styles:
           self:
