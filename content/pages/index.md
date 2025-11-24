@@ -12,7 +12,7 @@ sections:
       **Private cloud built for the next decade. Strong encryption, transparent
       design, and storage that puts you in control.**
     actions:
-      - label: Get started
+      - label: Sign Up
         altText: ''
         url: /
         showIcon: false
