@@ -51,7 +51,7 @@ sections:
           accusantium doloremque.
         features:
           - 25 Users
-          - Feature two
+          - Unlimited Devices
           - Feature three
           - Feature four
         image:
