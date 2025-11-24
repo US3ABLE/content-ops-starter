@@ -84,6 +84,7 @@ sections:
           - Unlimited Devices
           - Unlimited Customisation
           - 24/7 Support
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
