@@ -85,7 +85,7 @@ sections:
           - Unlimited Users
           - Unlimited Devices
           - Unlimited Bandwidth
-          - Feature four
+          - 24/7 Support
           - Feature five
         image:
           url: /images/abstract-feature3.svg
