@@ -14,7 +14,7 @@ sections:
       - type: PricingPlan
         title: Free Trial
         price: Free
-        details: No credit card required
+        details: Credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
