@@ -50,7 +50,7 @@ sections:
         features:
           - 2 Users
           - 5 Devices
-          - ''
+          - Modes & Routines
           - Feature four
         image:
           url: /images/abstract-feature1.svg
