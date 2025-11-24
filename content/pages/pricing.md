@@ -21,7 +21,6 @@ sections:
         features:
           - 1 User
           - 2 Devices
-          - Feature four
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
