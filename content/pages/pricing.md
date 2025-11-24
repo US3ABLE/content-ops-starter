@@ -19,7 +19,7 @@ sections:
           accusantium doloremque.
         features:
           - 2 Users
-          - Feature two
+          - 5 Devices
           - Feature three
           - Feature four
         image:
