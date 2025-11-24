@@ -85,7 +85,7 @@ sections:
           - Unlimited Users
           - Unlimited Devices
           - Unlimited Bandwidth
-          - 24/7 Support
+          - 24/7 Priority Support
           - Advanced Configuration & Customisation
         image:
           url: /images/abstract-feature3.svg
