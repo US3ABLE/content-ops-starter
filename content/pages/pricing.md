@@ -57,7 +57,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: ''
+          - label: Get Basic
             url: /
             icon: arrowRight
             iconPosition: right
