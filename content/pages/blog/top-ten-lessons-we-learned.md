@@ -2,7 +2,7 @@
 title: Who Am I?
 slug: top-ten-lessons-we-learned
 date: '2025-11-07'
-excerpt: ''
+excerpt: Click Here
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
