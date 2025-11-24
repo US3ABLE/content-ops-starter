@@ -20,7 +20,7 @@ sections:
         features:
           - 2 Users
           - 5 Devices
-          - Feature three
+          - ''
           - Feature four
         image:
           url: /images/abstract-feature1.svg
