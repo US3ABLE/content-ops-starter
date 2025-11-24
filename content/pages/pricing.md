@@ -105,7 +105,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-            textAlign: justify
+            textAlign: left
         type: PricingPlan
       - title: Enterprise
         price: $299
