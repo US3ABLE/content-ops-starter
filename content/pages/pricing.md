@@ -118,7 +118,7 @@ sections:
           - Unlimited Bandwidth
           - 24/7 Priority Support
           - Advanced Configuration & Customisation
-          - ''
+          - Unlocked Access To Beta Features
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
