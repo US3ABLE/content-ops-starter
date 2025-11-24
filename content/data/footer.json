@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/LOGO.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Nimbus\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
