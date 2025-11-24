@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: |-
-        Nimbus
-        Where Future Storage Meets Elite Encryption
+      text: Where Future Storage Meets Elite Encryption
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
