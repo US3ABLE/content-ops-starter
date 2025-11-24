@@ -72,9 +72,7 @@ sections:
       - title: Business
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
           - 25 Users
           - Unlimited Devices
