@@ -19,7 +19,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Maximum 1 User
+          - 1 User
           - 2 Devices
         image:
           type: ImageBlock
