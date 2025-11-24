@@ -48,7 +48,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - 2 Users
+          - 3 Users
           - 5 Devices
           - Modes & Routines
           - Feature four
