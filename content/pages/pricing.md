@@ -50,7 +50,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - 25 Users
           - Feature two
           - Feature three
           - Feature four
