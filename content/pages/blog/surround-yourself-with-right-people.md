@@ -2,11 +2,7 @@
 title: Surround Yourself With the Right People
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
-excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges,
-  risks, and countless decisions that can make or break your startup. One of the
-  most critical decisions you'll make isn’t about your product or market—it's
-  about the people you surround yourself with.
+excerpt: 'This is a cool description that stands out quite well '
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
