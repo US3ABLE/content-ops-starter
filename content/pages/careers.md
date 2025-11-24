@@ -77,7 +77,7 @@ sections:
       - title: Account Executive
         subtitle: Sales
         text: |
-          I Need someone for sales
+          I need someone for sales and stuff
         colors: bg-neutral-fg-dark
         styles:
           self:
