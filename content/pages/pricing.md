@@ -86,7 +86,7 @@ sections:
           - Unlimited Devices
           - Unlimited Bandwidth
           - 24/7 Support
-          - Feature five
+          - Advanced Configuration & Customisation
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
