@@ -19,6 +19,7 @@ sections:
         features:
           - 2 Users
           - 2 Devices
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
