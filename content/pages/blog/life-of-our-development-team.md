@@ -1,7 +1,7 @@
 ---
 title: A Day in the Life of Our Development Team
 slug: life-of-our-development-team
-date: '2025-11-15'
+date: '2025-11-24'
 excerpt: A lot of information over here
 featuredImage:
   url: /images/abstract-feature3.svg
