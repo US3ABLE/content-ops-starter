@@ -9,13 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: Get A Job At Nimbus
+    text: |
+      We Are Hiring!
     actions:
       - label: See open positions
         url: /
@@ -56,11 +52,6 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -81,14 +72,12 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          I need someone for sales and stuff
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -104,10 +93,8 @@ sections:
         type: FeaturedItem
       - title: Open Source Engineer
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          I also need someone for marketing
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -123,10 +110,8 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Lastly i need someone to do my job for me
         colors: bg-neutral-fg-dark
         styles:
           self:
