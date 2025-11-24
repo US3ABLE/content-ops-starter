@@ -1,7 +1,7 @@
 ---
 title: Surround Yourself With the Right People
 slug: surround-yourself-with-right-people
-date: '2024-04-26'
+date: '2024-11-26'
 excerpt: 'This is a cool description that stands out quite well '
 featuredImage:
   altText: Thumbnail
