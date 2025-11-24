@@ -23,4 +23,10 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
-Busy
+Wake up
+Eat
+Work
+Eat
+Work
+Eat
+Sleep
