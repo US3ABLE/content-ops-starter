@@ -15,9 +15,7 @@ sections:
         title: Free Trial
         price: Free
         details: Credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
           - 2 Users
           - 2 Devices
