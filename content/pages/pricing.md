@@ -84,7 +84,7 @@ sections:
         features:
           - Unlimited Users
           - Unlimited Devices
-          - Feature three
+          - Unlimited Bandwidth
           - Feature four
           - Feature five
         image:
