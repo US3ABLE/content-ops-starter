@@ -3,31 +3,58 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexibl Pricing
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: What Is Our Budget?
     plans:
-      - title: Developers
+      - type: PricingPlan
+        title: Free Trial
         price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        details: Credit card required
+        description: ''
         features:
-          - Feature one
-          - Feature two
-          - Feature three
+          - 2 Users
+          - 2 Devices
+          - Limited Bandwidth
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - title: Basic
+        price: $15
+        details: per month
+        description: ''
+        features:
+          - 3 Users
+          - 5 Devices
+          - Modes & Routines
           - Feature four
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Get Basic
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,29 +70,28 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Business
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 25 Users
+          - Unlimited Devices
+          - Unlimited Customisation
+          - 24/7 Support
+          - Modes & Routines
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Get Business
             url: /
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -74,25 +100,26 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            textAlign: left
         type: PricingPlan
       - title: Enterprise
-        price: Custom
+        price: $299
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: ''
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Unlimited Users
+          - Unlimited Devices
+          - Unlimited Bandwidth
+          - 24/7 Priority Support
+          - Advanced Configuration & Customisation
+          - Modes & Routines +
+          - Unlocked Access To Beta Features
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: 'Get Enterprise '
             url: /
             icon: arrowRight
             iconPosition: right
@@ -121,4 +148,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: false
 ---
