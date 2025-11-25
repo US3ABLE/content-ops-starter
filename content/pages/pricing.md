@@ -22,7 +22,7 @@ sections:
           - Limited Bandwidth
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/image (3).png
           altText: Pricing plan 1
         actions:
           - type: Button
