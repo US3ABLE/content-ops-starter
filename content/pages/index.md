@@ -213,7 +213,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: '/images/Timeline '
+      url: /images/Timeline 1.mp4
       autoplay: true
       loop: true
       muted: true
