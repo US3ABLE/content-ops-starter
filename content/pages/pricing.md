@@ -115,7 +115,7 @@ sections:
           - Modes & Routines +
           - Unlocked Access To Beta Features
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/image (5).png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
