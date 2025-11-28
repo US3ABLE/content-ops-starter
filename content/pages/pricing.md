@@ -50,7 +50,7 @@ sections:
           - Modes & Routines
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/abstract-feature3.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
