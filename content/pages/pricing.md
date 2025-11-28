@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexibl Pricing
+      text: Flexible Pricing
       color: text-dark
       styles:
         self:
@@ -50,7 +50,7 @@ sections:
           - Modes & Routines
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/abstract-feature3.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
@@ -81,7 +81,7 @@ sections:
           - 24/7 Support
           - Modes & Routines
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/image (4).png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
@@ -115,7 +115,7 @@ sections:
           - Modes & Routines +
           - Unlocked Access To Beta Features
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/image (5).png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
@@ -125,7 +125,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
