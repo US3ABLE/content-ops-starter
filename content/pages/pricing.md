@@ -81,7 +81,7 @@ sections:
           - 24/7 Support
           - Modes & Routines
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/image (4).png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
